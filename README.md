@@ -12,7 +12,7 @@ How does a mast cell communicate with other cells during inflammation?
 | ---------------------- | ---------- |
 | **Sender cell**        | Mast cell |
 | **Biological context** | Inflammation |
-| **Main purpose**       | To investigate how mast cells communicate with other cells and contribute to inflammatory responses |
+| **Main purpose**       |Regulation of inflammatory and immune responses through communication with other cells|
 
 ## Candidate ligand and evidence for sender-cell expression
 
