@@ -1,17 +1,26 @@
-# Cell-cell-communication-Torres
+# Cell-Cell-Communication
 
-## Chosen Sender Cell and Biological Context
+### Mast Cell Communication During Inflammation
 
-**Sender cell:** Mast cell
+### Biological Question
 
-**Biological context:** Inflammation
+How does a mast cell communicate with other cells during inflammation?
 
-## Candidate Ligand and Evidence for Sender-Cell Expression
+## Chosen sender cell and biological context
 
-**Candidate signaling molecule:** IL-13 (Interleukin-13)
+| **Item**               | **Answer** |
+| ---------------------- | ---------- |
+| **Sender cell**        | Mast cell |
+| **Biological context** | Inflammation |
+| **Main purpose**       | To investigate how mast cells communicate with other cells and contribute to inflammatory responses |
 
-**Official gene/protein name:** Interleukin-13 (IL13)
+## Candidate ligand and evidence for sender-cell expression
 
-**Evidence:** Human Protein Atlas identifies IL-13 as a secreted protein and reports cell-type-enhanced IL13 expression in mast cells. Published experimental evidence further shows that human mast cells can produce IL-13 after activation.
+| **Item**            | **Information** |
+| ------------------- | -------------- |
+| Sender cell         | Mast cell |
+| Candidate gene      | IL13 |
+| Protein name        | Interleukin-13 |
+| Expression evidence | The Human Protein Atlas identifies IL-13 as a secreted protein and provides protein-level evidence for the human IL-13 protein. Mast cells are also included among the cell types with enhanced IL13 expression. |
+| Source              | https://www.proteinatlas.org/ENSG00000169194-IL13 |
 
-**Signaling type:** Paracrine
