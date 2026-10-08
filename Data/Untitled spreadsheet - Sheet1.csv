@@ -1,0 +1,2 @@
+Ligand,Ligand gene,Receptor,Receptor gene,Sender cell,Receiver cell,Interaction type,Evidence
+IL-13 , IL13,IL-13 receptor complex,IL13RA1 + IL4R,Mast cell,Neutrophil,Direct interaction,IntAct EBI-1645096
